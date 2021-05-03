@@ -1,0 +1,57 @@
+body{
+   background-image:url("images/N.jpg");
+     margin-left: 2%;
+     background-size: 100%;
+     max-width: 100%;
+     opacity: 90%;
+    
+   }
+  
+  nav{
+      background-color:rgb(60, 221, 101);
+      text-align: center;
+      border-style: double;
+      opacity: 85%;
+  }
+          nav a{ 
+         
+          color: #000000;                 
+          opacity: 80%; 
+          display: inline;
+          margin: 0px;   
+          padding: 16px;  
+          display: inline-block;  
+  
+        }
+         h1{
+    display: block;
+    color: #000000;
+    text-align: center;
+    max-width:950px;
+    margin-left: 45px;
+    border-style:solid;
+    letter-spacing: 20px;
+    background-color:rgb(60, 221, 101);
+    font-size: 50px;
+    
+  }
+  h2{
+    float: center;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    max-width:900px;
+    margin-left: 80px;
+    font-family:'Courier New', Courier, monospace ;
+   background-color: blanchedalmond;
+  }
+  
+  #image1{
+    
+    max-width: 200px;
+    max-height: 200px;
+    border-style: groove;
+  
+  }
+ 
